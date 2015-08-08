@@ -26,7 +26,11 @@ small {
 
 main small {
 	font-family: 'Open Sans', sans-serif;
-	color: #919191
+	color: #919191;
+	display: block;
+}
+.small {
+	margin-top: 20px;
 }
 
 p {
@@ -40,7 +44,7 @@ body {
 }
 
 footer {
-	margin-top: 50px;
+	margin-top: 20px;
 	padding: 10px;
 	background-color: #353535;
 	width: 100%;
@@ -134,7 +138,7 @@ main article:hover {
 	main article {
 		border: none;
 	}
-	.header {
+	.header .image {
 		background-size: cover;
 	}
 	footer {
