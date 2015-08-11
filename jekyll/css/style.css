@@ -1,0 +1,178 @@
+@import url(http://fonts.googleapis.com/css?family=Muli:400,300italic,300,400italic|Open+Sans:400,400italic,700,700italic,300,300italic,600,600italic,800,800italic);
+h1 {
+  font-family: 'Muli', sans-serif;
+}
+h2 {
+  font-family: 'Muli', sans-serif;
+}
+h3 {
+  font-family: 'Muli', sans-serif;
+}
+h4 {
+  font-family: 'Muli', sans-serif;
+}
+
+h5 {
+  font-family: 'Muli', sans-serif;
+}
+
+h6 {
+  font-family: 'Muli', sans-serif;
+}
+
+small {
+	font-family: 'Muli', sans-serif;
+}
+
+main small {
+	font-family: 'Open Sans', sans-serif;
+	color: #919191;
+	display: block;
+}
+.small {
+	margin-top: 20px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	position: relative;
+}
+
+footer {
+	margin-top: 20px;
+	padding: 10px;
+	background-color: #353535;
+	width: 100%;
+	height: 40px;
+	color: #ebebeb;
+}
+
+.navbar img {
+	margin-top: -17%;
+	height: 150%;
+}
+
+.navbar-translucent {
+	background-color: rgba(33, 33, 33, 0.3);
+    border: none;
+}
+
+.navbar-translucent .navbar-nav li a {
+	color: #fff;
+}
+
+.navbar-translucent .navbar-nav .active a {
+	/*background-color: rgba(135, 135, 135, 0.3);*/
+	background: none;
+	border-bottom: 3px solid #52B2CF;
+	transition: background 0.2s ease;
+}
+
+.navbar-translucent .navbar-nav .active a:hover {
+	/*background-color: rgba(135, 135, 135, 0.3);*/
+	background: #52B2CF;
+}
+
+
+.header .image {
+	height: 450px;
+	width: 100%;
+	background-size: 110% auto;
+	background-position: center center;
+	z-index: 0;
+	transform: scale(1.1)
+	}
+	
+.header {
+  width: 100%;
+  height: 450px; 
+  width: 100%;
+  overflow: hidden;
+}
+.header .h-container {
+	z-index: 1;
+  display: table;
+  width: 100%;
+  height: 450px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.header .title-container {
+	display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+.header h1 {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  line-height: normal;
+  font-size:100px;
+  color: #eeeeee;
+  opacity: 0.9;
+
+}
+.header small {
+	font-size: 20px;
+	color: #eeeeee;
+	opacity: 0.9;
+}
+main {
+	z-index: 5;
+	background: white;
+}
+
+main h2 {
+	color: #50c3e6;
+	font-size: 35px;
+	padding-top: 60px;
+	margin-top: -20px;
+}
+
+main article {
+	height: 150px;
+	background-size: 100% auto;
+	background-position: center center;
+	transition: background-size 0.5s ease;
+	cursor: pointer;
+	display: table;
+	margin-bottom: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	border-left:  5px solid white;
+}
+
+main article .article-title {
+	font-size: 35px;
+	color: #eeeeee;
+	opacity: 0.9;
+	display: table-cell;
+	text-align: center;
+	vertical-align: middle;
+}
+
+main article:hover {
+	background-size: 130% auto;
+}
+.tweets {
+	text-align: center;
+}
+
+@media (max-width: 991px) {
+	main article {
+		border: none;
+	}
+	.header .image {
+		background-size: cover;
+	}
+	footer {
+		height: auto;
+	}
+}
