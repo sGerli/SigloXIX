@@ -75,7 +75,7 @@ footer {
 	transition: background 0.2s ease;
 }
 
-.navbar-translucent .navbar-nav .active a:hover {
+.navbar-translucent .navbar-nav .active a:hover, .navbar-translucent .navbar-nav .active a:focus {
 	/*background-color: rgba(135, 135, 135, 0.3);*/
 	background: #52B2CF;
 }
@@ -116,14 +116,11 @@ footer {
   display: inline-block;
   line-height: normal;
   font-size:100px;
-  color: #eeeeee;
-  opacity: 0.9;
-
+  color: rgba(255, 255, 255, 0.85);
 }
 .header small {
 	font-size: 20px;
-	color: #eeeeee;
-	opacity: 0.9;
+	color: rgba(255, 255, 255, 0.85);
 }
 main {
 	z-index: 5;
@@ -164,6 +161,15 @@ main article:hover {
 }
 .tweets {
 	text-align: center;
+}
+
+small.bib {
+	-webkit-user-select: none;  /* Chrome all / Safari all */
+	-moz-user-select: none;     /* Firefox all */
+	-ms-user-select: none;      /* IE 10+ */
+	user-select: none;          /* Likely future */    
+	pointer-events: none;
+	margin-top: 40px;
 }
 
 @media (max-width: 991px) {

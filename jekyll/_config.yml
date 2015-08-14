@@ -7,9 +7,10 @@ highlighter: pygments
 
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
+url: localhost:4000
 #
 title : Siglo XIX
 tagline: Site Tagline
 author :
   name : Stefano Gerli
-copyright: &copy Stefano Gerli 2015
+copyright: © Stefano Gerli 2015
