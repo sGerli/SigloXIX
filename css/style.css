@@ -54,8 +54,7 @@ footer {
 }
 
 .navbar img {
-	margin-top: -17%;
-	height: 150%;
+	height: 25px;
 }
 
 .navbar-translucent {
@@ -65,10 +64,12 @@ footer {
 
 .navbar-translucent .navbar-nav li a {
 	color: #fff;
+	margin-bottom: 3px;
 }
 
 .navbar-translucent .navbar-nav .active a {
 	/*background-color: rgba(135, 135, 135, 0.3);*/
+	margin-bottom: 0;
 	background: none;
 	border-bottom: 3px solid #52B2CF;
 	transition: background 0.2s ease;
