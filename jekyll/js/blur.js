@@ -72,7 +72,8 @@
 		     * Do The Dirty Work Here
 		     */
 		    var slowScroll = currentScrollY / 4
-		      , blurScroll = currentScrollY * 6 ;
+		      , blurScroll = currentScrollY * 6 
+		      , scaleScroll = currentScrollY / 6;
 		    
 		    $content.css({
 		      'transform'         : 'translateY(-' + slowScroll + 'px)',
@@ -81,7 +82,8 @@
 		    });
 		    
 		    $blur.css({
-		      '-webkit-filter' : 'blur(' + (blurScroll / wHeight) + 'px)'
+		      '-webkit-filter' : 'blur(' + (blurScroll / wHeight) + 'px)',
+		      'transform'      : 'scale(' + ((scaleScroll / wHeight) + 1.1) + ')'
 		    });
 		  }
 		};
