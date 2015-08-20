@@ -8,8 +8,8 @@
     <title>{{site.title}}</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="{{site.github.url}}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{site.github.url}}/css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -24,10 +24,10 @@
 	      <div class="title-container">
 	        <h1>{{site.title}}</h1>
 	        <br>
-	        <small>Por {{site.author.name}}</small>
+	        <small>{{site.author.name}}</small>
 	      </div>
       </div>
-      <div class="image" style="background-image: url({{ page.image }})"></div>
+      <div class="image" style="background-image: url({{site.github.url}}{{ page.image }})"></div>
     </div>
     <main class="container articles">
     	<h2>{{page.subtitle}}</h1><hr>
@@ -44,8 +44,8 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/blur.js"></script>
+    <script src="{{site.github.url}}/js/bootstrap.min.js"></script>
+    <script src="{{site.github.url}}/js/blur.js"></script>
 
     <script>
 
