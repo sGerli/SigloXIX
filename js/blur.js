@@ -72,7 +72,7 @@
 		     * Do The Dirty Work Here
 		     */
 		    var slowScroll = currentScrollY / 4
-		      , blurScroll = currentScrollY * 6
+		      , blurScroll = currentScrollY * 6 
 		      , scaleScroll = currentScrollY / 6;
 		    
 		    $content.css({
