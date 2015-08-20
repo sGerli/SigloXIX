@@ -27,7 +27,6 @@ small {
 main small {
 	font-family: 'Open Sans', sans-serif;
 	color: #919191;
-	display: block;
 }
 .small {
 	margin-top: 20px;
@@ -170,6 +169,19 @@ small.bib {
 	user-select: none;          /* Likely future */    
 	pointer-events: none;
 	margin-top: 40px;
+	display: block;
+}
+
+
+main p img {
+	margin: 10px;
+	pointer-events: none;
+}
+main p img.left {
+	float: left;
+}
+main p img.right {
+	float: right;
 }
 
 @media (max-width: 991px) {

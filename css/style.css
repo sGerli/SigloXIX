@@ -27,10 +27,10 @@ small {
 main small {
 	font-family: 'Open Sans', sans-serif;
 	color: #919191;
-	display: block;
 }
 .small {
 	margin-top: 20px;
+	display: block;
 }
 
 p {
