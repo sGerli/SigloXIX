@@ -10,8 +10,6 @@ title: Auge del Imperio Británico
 ## Consecuencias
 Esto causo que el Imperio Británico se convirtiera en potencia mundial. Durante esta epoca hubo mucha pobreza a causa de que los burgueses se enriquecieron mucho. Al haber tanta pobreza los trabajadores fueron maltratados, despreciados, oprimidos, esto porque siempre habia lguien que queria ese puesto por menos salario. Este aumento en la produccion tambien causo deficit de materia prima, por lo tanto, fue necesario conseguir colonias en Africa.
 
-
-
 <small class="bib">
   <sup>1</sup>**Burgueses** La clase alta de la revolución Industrial.<br>
   <sup>2</sup>**Proletariado** La clase trabajadora, baja de la revolución Industrial.<br>
