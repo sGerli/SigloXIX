@@ -7,10 +7,12 @@
 		 */
 		var $content = $('.header .h-container')
 		  , $blur    = $('.header .image')
-		  , wHeight  = $(window).height();
+		  , wHeight  = $(window).height()
+		  , hHeight  = $('.header').height;
 		
 		$(window).on('resize', function(){
 		  wHeight = $(window).height();
+		  hHeight  = $('.header').height;
 		});
 		
 		/**
@@ -73,7 +75,8 @@
 		     */
 		    var slowScroll = currentScrollY / 4
 		      , blurScroll = currentScrollY * 6 
-		      , scaleScroll = currentScrollY / 6;
+		      , scaleScroll = currentScrollY / 6
+		      , opacity     = ((currentScrollY * 100) / hHeight) / 100;
 		    
 		    $content.css({
 		      'transform'         : 'translateY(-' + slowScroll + 'px)',
@@ -83,7 +86,8 @@
 		    
 		    $blur.css({
 		      '-webkit-filter' : 'blur(' + (blurScroll / wHeight) + 'px)',
-		      'transform'      : 'scale(' + ((scaleScroll / wHeight) + 1.1) + ')'
+		      'transform'      : 'scale(' + ((scaleScroll / wHeight) + 1.1) + ')',
+		      'opacity'        : opacity
 		    });
 		  }
 		};
