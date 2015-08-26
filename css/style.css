@@ -94,6 +94,7 @@ footer {
   height: 450px; 
   width: 100%;
   overflow: hidden;
+  background: #000000;
 }
 .header .h-container {
 	z-index: 1;
