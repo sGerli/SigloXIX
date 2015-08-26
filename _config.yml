@@ -10,6 +10,7 @@ highlighter: pygments
 #
 title : Siglo XIX
 tagline: Site Tagline
+icon: /img/logo.png
 author :
   name : Tomas Achi - Carlos Echandi - Stefano Gerli - Alexander Wu
 copyright: © iGerli 2015

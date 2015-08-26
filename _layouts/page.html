@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="{{site.github.url}}{{site.icon}}">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>{% if page.title %} {{ page.title }} | {% endif %} Siglo XIX</title>
 
@@ -29,12 +30,13 @@
 	        <span class="icon-bar"></span>
 	      </button>
 	      <a class="navbar-brand" href="{{site.github.url}}">
-	        <img alt="Brand" src="{{site.github.url}}/img/logo.png">
+	        <img alt="Brand" src="{{site.github.url}}{{site.icon}}">
 	      </a>
 	    </div>
 	    <!-- Collect the nav links, forms, and other content for toggling -->
 	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 	      <ul class="nav navbar-nav">
+		    <li><a href="{{site.github.url}}">Inicio</a></li>
 	        <li class="active"><a href="#causas">Causas <span class="sr-only">(current)</span></a></li>
 	        <li><a href="#cons">Consecuencias</a></li>
 	      </ul>
