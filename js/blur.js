@@ -8,11 +8,11 @@
 		var $content = $('.header .h-container')
 		  , $blur    = $('.header .image')
 		  , wHeight  = $(window).height()
-		  , hHeight  = $('.header').height;
+		  , hHeight  = $('.header').outerHeight();
 		
 		$(window).on('resize', function(){
 		  wHeight = $(window).height();
-		  hHeight  = $('.header').height;
+		  hHeight  = $('.header').outerHeight();
 		});
 		
 		/**
@@ -76,7 +76,7 @@
 		    var slowScroll = currentScrollY / 4
 		      , blurScroll = currentScrollY * 6 
 		      , scaleScroll = currentScrollY / 6
-		      , opacity     = ((currentScrollY * 100) / hHeight) / 100;
+		      , opacity     = (-((currentScrollY * 100) / (hHeight + 400)) + 100) / 100;
 		    
 		    $content.css({
 		      'transform'         : 'translateY(-' + slowScroll + 'px)',
