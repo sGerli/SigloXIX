@@ -134,6 +134,11 @@ main h2 {
 	margin-top: -20px;
 }
 
+main h3 {
+	color: #50c3e6;
+	font-size: 20px;
+}
+
 main article {
 	height: 150px;
 	background-size: 100% auto;
