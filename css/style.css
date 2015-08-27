@@ -188,6 +188,9 @@ main p img.right {
 @media (max-width: 991px) {
 	main article {
 		border: none;
+		margin-left: 0;
+		margin-right: 0;
+		width: 100%;
 	}
 	.header .image {
 		background-size: cover;
