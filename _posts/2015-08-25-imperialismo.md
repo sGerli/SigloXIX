@@ -47,3 +47,6 @@ Las consecuencias del imperialismo son: la introducción de la medicina occident
 
 ### Reparto Colonial
 El reparto colonial consistió en que varios países europeos de dividieron los continentes de Africa, Asia y Oceanía en partes desiguales, lo cual llevo a varios conflictos y una de las razones por la cual la primera guerra mundial se causó.
+<small class="bib">
+Imperialismo. (2015, September 1). In Wikipedia. Wikipedia. Retrieved from https://es.m.wikipedia.org/wiki/Imperialismo
+</small>
