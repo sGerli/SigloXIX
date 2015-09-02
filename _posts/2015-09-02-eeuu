@@ -1,0 +1,37 @@
+---
+layout: page
+image: pending
+title: Expansionismo Imperialista de los Estados Unidos
+---
+<nav class="navbar navbar-inverse navbar-translucent navbar-fixed-top" id="navbar">
+	<div class="container-fluid">
+	    <div class="navbar-header">
+		    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+	        <span class="sr-only">Toggle navigation</span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	      </button>
+	      <a class="navbar-brand" href="{{site.github.url}}">
+	        <img alt="Brand" src="{{site.github.url}}{{site.icon}}">
+	      </a>
+	    </div>
+	    <!-- Collect the nav links, forms, and other content for toggling -->
+	    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+	      <ul class="nav navbar-nav">
+		    <li><a href="{{site.github.url}}">Inicio</a></li>
+	        <li class="active"><a href="#causas">Causas <span class="sr-only">(current)</span></a></li>
+	        <li><a href="#cons">Consecuencias</a></li>
+	      </ul>
+	    </div><!-- /.navbar-collapse -->
+	</div>
+</nav>
+
+<h2 id="causas">Causas</h2>
+Las causas del expansionismo de los estados unidos es igual al del cualquier otro, el deseo de adquirir; más tierras, materia prima, y poder. Lo que lo hace especial es que en sus primeros cien años sufrió un gran cambio en territorio, desde unas simples trece colonias a un territorio entero con dos océanos, uno en cada lado.
+<h2 id="cons">Consecuencias</h2>
+Las consecuencias de este acontecimiento fue al igual que otros, pero la principal fue la pérdida de la cultura. Los principales lugares afectados fueron las islas del Caribe al igual que el Pacifico.
+
+<small class="bib">
+Imperialismo estadounidense. (2015, August 31). In Wikipedia. Wikipedia. Retrieved from https://es.m.wikipedia.org/wiki/Imperialismo_estadounidense
+</small>
