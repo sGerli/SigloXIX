@@ -10,6 +10,12 @@
 
     <!-- Bootstrap -->
     <link href="{{site.github.url}}/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Preloader -->
+    <link href="{{site.github.url}}/css/preloader.css" rel="stylesheet">
+    <script src="{{site.github.url}}/js/preloader.js"></script>
+    
+    <!-- Site css -->
     <link href="{{site.github.url}}/css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -20,6 +26,15 @@
     <![endif]-->
   </head>
   <body>
+  	<div class="preloader" id="pre">
+	  	<img class="prelogo" src="{{site.github.url}}{{site.icon}}" width="300" alt="{{site.title}}" />
+	  	<br>
+	  	<small>by iGerli</small>
+	  	<br>
+	  	<section class="preload-area" id="loader">
+	  		<div class="loader">Loading...</div>
+	  	</section>
+	</div>
     <div class="header">
       <div class="h-container">
 	      <div class="title-container">
