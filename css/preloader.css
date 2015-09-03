@@ -56,13 +56,6 @@
 	-ms-animation-iteration-count: 1;
 	-ms-transform-origin: 50% 50%;
 }
-.preloadimg {
-	background-size: 70px;
-	height: 70px;
-	width: 100%;
-	background-repeat: no-repeat;
-    background-position: center;
-}
 .preload-area {
 	margin-top: 60px;
 	padding-top: 25px;
@@ -134,6 +127,12 @@
   animation: load2 2s infinite ease;
 }
 /* Loader End */
+
+.img-to-preload {
+	overflow: hidden;
+	opacity: 0;
+	display: none;
+}
 /* End of Preloader CSS */
 
 /* Animation Keyframes */
