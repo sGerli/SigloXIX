@@ -38,7 +38,7 @@
 small.by {
 	color: #666666;
 	font-size: 20px;
-	transition: opacity 0.6s ease;
+	transition: opacity 0.3s ease;
 }
 small.by img {
 	margin-left: 10px;
