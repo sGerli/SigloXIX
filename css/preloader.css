@@ -61,6 +61,13 @@ small.by img {
 	-ms-animation-iteration-count: 1;
 	-ms-transform-origin: 50% 50%;
 }
+
+.loaded small.by {
+	display: none;
+	height: 0px;
+	width: 0px;
+}
+
 .prelogo {
 	z-index: 1032;
 	padding-top: 70px;
