@@ -1,6 +1,6 @@
 ---
 layout: page
-image: pending
+image: /img/hungria.png
 title: Fortalecimiento del Imperio Austro-Húngaro
 ---
 <nav class="navbar navbar-inverse navbar-translucent navbar-fixed-top" id="navbar">
