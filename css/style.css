@@ -130,13 +130,16 @@ main {
 main h2 {
 	color: #50c3e6;
 	font-size: 35px;
-	padding-top: 60px;
+	padding-top: 20px;
 	margin-top: -20px;
 }
 
 main h3 {
 	color: #50c3e6;
 	font-size: 20px;
+}
+main.container {
+	padding-top: 20px;
 }
 
 main article {
@@ -162,6 +165,7 @@ main article .article-title {
 	display: table-cell;
 	text-align: center;
 	vertical-align: middle;
+	-webkit-text-stroke: 1px rgba(0, 0, 0, 0.5);
 }
 
 main article:hover {
