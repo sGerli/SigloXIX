@@ -30,7 +30,7 @@ title: Imperialismo
 </nav>
 
 <h2 id="concepto">Concepto</h2>
-El imperialismo es el concepto de una relación humana que implica la extensión de la autoridad y control sobre una doctrina política. Los imperios han existido a través de la historia, empezando con el expansionismo europeo y terminando tras la segunda guerra mundial. Un gran ejemplo de la expresión la “Era del imperialismo” es la repartición (entre países europeos) de África, Asia y Oceanía. 
+El imperialismo es el concepto de una relación humana que implica la extensión de la autoridad y control sobre una doctrina política. Los imperios han existido a través de la historia, empezando con el expansionismo europeo y terminando tras la segunda guerra mundial. Un gran ejemplo de la expresión la "Era del imperialismo" es la repartición (entre países europeos) de África, Asia y Oceanía. 
 
 
 <h2 id="causas">Causas</h2>
@@ -42,7 +42,7 @@ El imperialismo es el concepto de una relación humana que implica la extensión
 
 
 <h2 id="manif">Manifestaciones</h2>
-Algunas características del imperialismo son: la explotación de materia prima, el control de la libertad de los países conquistados, el control total del país de parte de sus gobernantes, el control de todos sus; recursos, mercados, medios de comunicación, territorios, militares, y economía.
+Algunas características del imperialismo son: la explotación de materia prima, el control de la libertad de los países conquistados, el control total del país de parte de sus gobernantes, el control de todos sus recursos, mercados, medios de comunicación, territorios, militares, y economía.
 
 
 <h2 id="cons">Consecuencias</h2>
