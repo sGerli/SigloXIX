@@ -35,7 +35,7 @@ En los años que precedieron al estallido de la Primera Guerra Mundial varios pa
 En comienzo del siglo XX, los países europeos comenzaron a aumentar sus gastos en armamento y en lo militar, los cargos militares obtuvieron más poder. También las grandes potencias europeas emplearon grandes cantidades de recursos y tiempo para lograr el control de las regiones en África y Asia con el fin de controlar sus materias primas. Se dio una "Paz Armada" que consiste en tener el armamento necesario para una guerra, pero aun no hay conflicto entonces no se usa.
 
 <h2 id="social">Social</h2>  
-El archiduque heredero de la corona imperial austro-húngara y su esposa fueron asesinados el 28 de junio de 1914 en la ciudad Bosnia de Sarajevo. Desde Viena, la capital austro-húngara, se acusó a Serbia de estar detrás del asesinato, punto muy discutido que nunca se ha podido probar. Austria- Hungría exigió que serbia tomara la responsabilidad del asesinato o les declararían la guerra, Serbia no se hizo responsable. Austria-Hungría le declaró la guerra a Serbia.
+El archiduque heredero de la corona imperial Austro-Húngara y su esposa fueron asesinados el 28 de junio de 1914 en la ciudad Bosnia de Sarajevo. Desde Viena, la capital Austro-Húngara, se acusó a Serbia de estar detrás del asesinato, punto muy discutido que nunca se ha podido probar. Austria- Hungría exigió que serbia tomara la responsabilidad del asesinato o les declararían la guerra, Serbia no se hizo responsable. Austria-Hungría le declaró la guerra a Serbia.
 
 
 <small class="bib">
