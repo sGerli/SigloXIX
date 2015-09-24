@@ -39,5 +39,6 @@ El archiduque heredero de la corona imperial Austro-Húngara y su esposa fueron 
 
 
 <small class="bib">
-  Collado, P. A. (n.d.). Causas de la Primer Guerra Mundial. Retrieved 21 August 2015, from http://historiausa.about.com/od/IGM/a/5-Causas-De-La-Primera-Guerra-Mundial.htm
+Collado, P. A. (n.d.). Causas de la Primer Guerra Mundial. Retrieved 21 August 2015, from http://historiausa.about.com/od/IGM/a/5-Causas-De-La-Primera-Guerra-Mundial.htm<br>
+Parsons, J., Crawford, photographs by A., & Adams, S. (2001). World War I (1st ed.). New York: DK Publishing (Dorling Kindersley).
 </small>
