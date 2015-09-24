@@ -43,6 +43,6 @@ Hubo 4 millones de muertos (entre 1917 y 1921). Se dio la creación de una cultu
 
 
 <small class="bib">
-Revolucion Zarista o Comunista. (n.d.). Recuperado el 26 de agosto 2015, de http://larevolucionsovietica.blogspot.com/2010/06/causas-y-consecuencia-de-la-revolucion_05.html
+Revolucion Zarista o Comunista. (n.d.). Recuperado el 26 de agosto 2015, de http://larevolucionsovietica.blogspot.com/2010/06/causas-y-consecuencia-de-la-revolucion_05.html<br>
 Historia Universal. (n.d.). Recuperado el 26 de agosto 2015, de http://www.historialuniversal.com/2010/07/consecuencias-de-la-revolucion-rusa.html
 </small>
