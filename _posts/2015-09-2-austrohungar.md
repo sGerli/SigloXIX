@@ -28,7 +28,7 @@ title: Fortalecimiento del Imperio Austro-Húngaro
 </nav>
 
 <h2 id="causas">Causas</h2>
-En Austria-Hungria en el 1850 se incrementó la producción industrial, se incrementaron las exportaciones y se desarrollaron los ferrocarriles y las comunicaciones. Pero el Imperio Austriaco perdió Venecia. Austria-Hungria fue excluida de toda participación en los Estados Alemanes. Esto incremento el descontento de los pueblos que integraban el imperio. Francisco José puso a Hungría de su lado para evitar el levantamiento de los otros pueblos. En 1867 se estableció un compromiso el cual se formó una monarquía dual controlada por Austria y Hungría.
+En Austria-Hungría en el 1850 se incrementó la producción industrial, se incrementaron las exportaciones y se desarrollaron los ferrocarriles y las comunicaciones. Pero el Imperio Austriaco perdió Venecia. Austria-Hungría fue excluida de toda participación en los Estados Alemanes. Esto incremento el descontento de los pueblos que integraban el imperio. Francisco José puso a Hungría de su lado para evitar el levantamiento de los otros pueblos. En 1867 se estableció un compromiso el cual se formó una monarquía dual controlada por Austria y Hungría.
 
 <h2 id="cons">Consecuencias</h2>
 El imperio trato de mantener la estabilidad y la política exterior puso el acento en Europa. Trataron de negociar con Alemania para lograr reconciliación para que fueran mas fuerte que el enemigo. En los Balcanes, Rusia y el Imperio Turco-Otomano tenían interés en el imperio, de modo que tuvo que defender las fronteras. En 1878 después de una crisis , obtuvo los territorios de Bosnia-Herzegovina, lugar que se convirtió en antesala de la Primera Guerra Mundial.
