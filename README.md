@@ -1,2 +1,2 @@
-# SigoXIX (School Project)
+# SigloXIX (School Project)
 Antecedentes políticos, económicos y geográficos a finales del siglo XIX.
