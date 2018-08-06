@@ -4,18 +4,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="{{site.github.url}}{{site.icon}}">
+    <link rel="icon" type="image/png" href="{{site.github.url | replace: 'http://', '//' }}{{site.icon}}">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>{{site.title}}</title>
 
     <!-- Bootstrap -->
-    <link href="{{site.github.url}}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{site.github.url | replace: 'http://', '//' }}/css/bootstrap.min.css" rel="stylesheet">
     
     <!-- Preloader -->
-    <link href="{{site.github.url}}/css/preloader.css" rel="stylesheet">
+    <link href="{{site.github.url | replace: 'http://', '//' }}/css/preloader.css" rel="stylesheet">
     
     <!-- Site css -->
-    <link href="{{site.github.url}}/css/style.css" rel="stylesheet">
+    <link href="{{site.github.url | replace: 'http://', '//' }}/css/style.css" rel="stylesheet">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -26,7 +26,7 @@
   </head>
   <body>
   	<div class="preloader" id="pre">
-	  	<img class="prelogo" src="{{site.github.url}}{{site.logo}}"  height="250" alt="Siglo XIX" />
+	  	<img class="prelogo" src="{{site.github.url | replace: 'http://', '//' }}{{site.logo}}"  height="250" alt="Siglo XIX" />
 	  	<br>
 	  	<small class="by">By<img src="https://content.igerli.com//2014/12/iGerli-logo-140.png" height="40px" alt="iGerli"></small>
 	  	<br>
@@ -42,7 +42,7 @@
 	        <small>{{site.author.name}}</small>
 	      </div>
       </div>
-      <div class="image" style="background-image: url({{site.github.url}}{{ page.image }})"></div>
+      <div class="image" style="background-image: url({{site.github.url | replace: 'http://', '//' }}{{ page.image }})"></div>
     </div>
     <main class="container articles">
 	    {{ content }}
@@ -58,11 +58,11 @@
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <!-- Preloader -->
-    <script src="{{site.github.url}}/js/imagesloaded.pkgd.min.js"></script>
-    <script src="{{site.github.url}}/js/preloader.js"></script>
+    <script src="{{site.github.url | replace: 'http://', '//' }}/js/imagesloaded.pkgd.min.js"></script>
+    <script src="{{site.github.url | replace: 'http://', '//' }}/js/preloader.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="{{site.github.url}}/js/bootstrap.min.js"></script>
-    <script src="{{site.github.url}}/js/blur.js"></script>
+    <script src="{{site.github.url | replace: 'http://', '//' }}/js/bootstrap.min.js"></script>
+    <script src="{{site.github.url | replace: 'http://', '//' }}/js/blur.js"></script>
 
     <!-- Piwik -->
 	<script type="text/javascript">
